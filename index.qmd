@@ -9,7 +9,7 @@ about:
       href: mailto:yuw260@pitt.edu
     - icon: github
       text: Github
-      href: https://github.com/ychwang0331
+      href: https://github.com/yuchengwang-stat
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/yucheng-wang-a9b431214/
